@@ -66,7 +66,7 @@ The literature areas are becoming clearer:
 - experience and interaction design
     
 
-I also filled in some entries on the [[[Reference Matrix.xlsx\|[Reference Matrix.xlsx]] to rate how strongly each reference connects to the project themes.
+I also filled in some entries on the [[02 Readings/Google Docs Reference Matrix\|Google Docs Reference Matrix]] to rate how strongly each reference connects to the project themes.
 
 ## Shift
 

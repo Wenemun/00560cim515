@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-readings/google-docs-reference-matrix/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/02 Readings/Google Docs Reference Matrix/","dg-note-properties":{}}
 ---
 
 

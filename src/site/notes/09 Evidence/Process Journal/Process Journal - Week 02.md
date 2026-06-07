@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-evidence/process-journal/process-journal-week-02/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/09 Evidence/Process Journal/Process Journal - Week 02/","dg-note-properties":{}}
 ---
 
 # Entry for 07/06/26
@@ -86,7 +86,7 @@ That makes the project feel easier to explain.
     
 - [[Assessment 2\|Assessment 2]]
     
-- [[03 Concepts/Worldtelling/Worldtelling\|Worldtelling]]
+- [[03 Concepts/Worldbuilding - WorldTelling/Worldbuilding - WorldTelling\|Worldbuilding - WorldTelling]]
     
 - [[05 Methods/Practice-led Research/Practice-led Research\|Practice-led Research]]
     

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps-of-content/moc-creative-practice/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Maps of Content/MOC - Creative Practice/","dg-note-properties":{}}
 ---
 
 # MOC - Creative Practice

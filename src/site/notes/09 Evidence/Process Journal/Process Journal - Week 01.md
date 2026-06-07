@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-evidence/process-journal/process-journal-week-01/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/09 Evidence/Process Journal/Process Journal - Week 01/","dg-note-properties":{}}
 ---
 
 # Process Journal - Week 01

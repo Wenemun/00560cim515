@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-readings/notes/grad-seminar/w1-grad-seminar-4-6/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/02 Readings/Notes/Grad Seminar/W1 Grad Seminar 4-6/","dg-note-properties":{}}
 ---
 
 

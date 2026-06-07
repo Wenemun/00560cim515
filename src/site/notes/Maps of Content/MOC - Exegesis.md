@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps-of-content/moc-exegesis/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Maps of Content/MOC - Exegesis/","dg-note-properties":{}}
 ---
 
 # MOC - Exegesis

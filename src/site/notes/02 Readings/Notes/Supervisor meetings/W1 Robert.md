@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-readings/notes/supervisor-meetings/w1-robert/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/02 Readings/Notes/Supervisor meetings/W1 Robert/","dg-note-properties":{}}
 ---
 
 Philospohical vs technical

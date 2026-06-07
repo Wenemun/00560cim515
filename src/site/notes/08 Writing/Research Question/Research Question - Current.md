@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-writing/research-question/research-question-current/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/08 Writing/Research Question/Research Question - Current/","dg-note-properties":{}}
 ---
 
 # Research Question - Current

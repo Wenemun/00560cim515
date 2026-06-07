@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps-of-content/moc-capstone/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Maps of Content/MOC - Capstone/","dg-note-properties":{}}
 ---
 
 # MOC - Capstone
@@ -18,7 +18,7 @@ The project is framework-first, with the creative world or prototype acting as a
 
 ## Key Areas
 
-- [[03 Concepts/Worldtelling/Worldtelling\|Worldtelling]]
+- [[03 Concepts/Worldbuilding - WorldTelling/Worldbuilding - WorldTelling\|Worldbuilding - WorldTelling]]
 - [[03 Concepts/Experience Design/Multimodal Experience Design\|Multimodal Experience Design]]
 - [[Interactive Narrative Systems\|Interactive Narrative Systems]]
 - [[Transmedia Audience Engagement\|Transmedia Audience Engagement]]
@@ -28,7 +28,7 @@ The project is framework-first, with the creative world or prototype acting as a
 - [[03 Concepts/Agency and Participation/Agency\|Agency]]
 - [[03 Concepts/Agency and Participation/Participation\|Participation]]
 - [[Emergent Narrative\|Emergent Narrative]]
-- [[Experience Design\|Experience Design]]
+- [[03 Concepts/Experience Design/Experience Design\|Experience Design]]
 - [[Game Systems\|Game Systems]]
 
 ## Project Structure

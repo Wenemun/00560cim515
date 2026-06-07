@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-writing/draft-fragments/scope-parking-lot/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/08 Writing/Draft Fragments/Scope Parking Lot/","dg-note-properties":{}}
 ---
 
 # Scope Parking Lot

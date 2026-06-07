@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/06-framework/placeholder-1/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/06 Framework/Placeholder 1/","dg-note-properties":{}}
 ---
 

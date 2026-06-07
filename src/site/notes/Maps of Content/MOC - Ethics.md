@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps-of-content/moc-ethics/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Maps of Content/MOC - Ethics/","dg-note-properties":{}}
 ---
 
 # MOC - Ethics

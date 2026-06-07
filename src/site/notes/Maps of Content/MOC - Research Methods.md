@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps-of-content/moc-research-methods/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Maps of Content/MOC - Research Methods/","dg-note-properties":{}}
 ---
 
 # MOC - Research Methods

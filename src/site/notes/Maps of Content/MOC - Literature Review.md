@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps-of-content/moc-literature-review/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Maps of Content/MOC - Literature Review/","dg-note-properties":{}}
 ---
 
 # MOC - Literature Review
@@ -7,8 +7,8 @@
 ## Core Literature Areas
 
 - [[Transmedia\|Transmedia]]
-- [[03 Concepts/Worldtelling/Worldtelling\|Worldtelling]]
-- [[Experience Design\|Experience Design]]
+- [[03 Concepts/Worldbuilding - WorldTelling/Worldbuilding - WorldTelling\|Worldbuilding - WorldTelling]]
+- [[03 Concepts/Experience Design/Experience Design\|Experience Design]]
 - [[Interaction Design\|Interaction Design]]
 - [[Game Design\|Game Design]]
 - [[Interactive Narrative Systems\|Interactive Narrative Systems]]

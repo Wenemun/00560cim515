@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-evidence/iterations/iteration-log/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/09 Evidence/Iterations/Iteration Log/","dg-note-properties":{}}
 ---
 
 

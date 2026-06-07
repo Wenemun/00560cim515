@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps-of-content/moc-framework/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Maps of Content/MOC - Framework/","dg-note-properties":{}}
 ---
 
 # MOC - Framework
@@ -10,7 +10,7 @@ To help authors and designers tell a world, not just a story, across interconnec
 
 ## Core Components
 
-- [[03 Concepts/Worldtelling/Worldtelling\|Worldtelling]]
+- [[03 Concepts/Worldbuilding - WorldTelling/Worldbuilding - WorldTelling\|Worldbuilding - WorldTelling]]
 - [[06 Framework/Terminology/Audience Modes\|Audience Modes]]
 - [[06 Framework/Terminology/Participation Levels\|Participation Levels]]
 - [[06 Framework/Terminology/Agency Types\|Agency Types]]

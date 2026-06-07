@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-evidence/decision-log/design-decision-log/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/09 Evidence/Decision Log/Design Decision Log/","dg-note-properties":{}}
 ---
 
 
@@ -29,6 +29,6 @@ Reduces the risk of the project becoming only worldbuilding. Keeps the exegesis 
 
 ### Related
 
-- [[03 Concepts/Worldtelling/Worldtelling\|Worldtelling]]
+- [[03 Concepts/Worldbuilding - WorldTelling/Worldbuilding - WorldTelling\|Worldbuilding - WorldTelling]]
 - [[03 Concepts/Experience Design/Multimodal Experience Design\|Multimodal Experience Design]]
 - [[06 Framework/Draft Model/Worldtelling Framework - Draft\|Worldtelling Framework - Draft]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-readings/notes/class/w1-defining-research/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/02 Readings/Notes/Class/W1 Defining Research/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-readings/notes/supervisor-meetings/w2-meeting-with-robert-3-5/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/02 Readings/Notes/Supervisor meetings/W2 Meeting with Robert 3-5/","dg-note-properties":{}}
 ---
 
 

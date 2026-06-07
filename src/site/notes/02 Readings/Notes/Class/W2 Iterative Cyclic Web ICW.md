@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-readings/notes/class/w2-iterative-cyclic-web-icw/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/02 Readings/Notes/Class/W2 Iterative Cyclic Web ICW/","dg-note-properties":{}}
 ---
 
 

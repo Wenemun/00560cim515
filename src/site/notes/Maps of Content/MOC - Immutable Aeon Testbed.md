@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps-of-content/moc-immutable-aeon-testbed/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Maps of Content/MOC - Immutable Aeon Testbed/","dg-note-properties":{}}
 ---
 
 # MOC - Immutable Aeon Testbed

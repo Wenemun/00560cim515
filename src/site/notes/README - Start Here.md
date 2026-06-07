@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme-start-here/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/README - Start Here/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 (note this homepage will be replaced eventually. This is information for Seth basically, because i know ill forget. Use the navigation at the top. Not everything is published yet, so if theres broken links, thats why. [Email me](mailto:seth.callaghan@gmail.com) - However, it may not exist yet)
@@ -21,7 +21,7 @@ Start with [[Maps of Content/MOC - Capstone\|MOC - Capstone]].
 Use:
 - **02 Sources** for PDFs, articles, books, links, and raw source material.
 - **03 Reading Notes** for notes on individual sources.
-- **04 Concepts** for reusable ideas like [[03 Concepts/Worldtelling/Worldtelling\|Worldtelling]], [[03 Concepts/Agency and Participation/Agency\|Agency]], [[Transmedia\|Transmedia]], and [[Experience Design\|Experience Design]].
+- **04 Concepts** for reusable ideas like [[03 Concepts/Worldbuilding - WorldTelling/Worldbuilding - WorldTelling\|Worldbuilding - WorldTelling]], [[03 Concepts/Agency and Participation/Agency\|Agency]], [[Transmedia\|Transmedia]], and [[03 Concepts/Experience Design/Experience Design\|Experience Design]].
 - **05 Methods** for methodology and research design.
 - **06 Framework** for the actual model, principles, patterns, terminology, and manifesto.
 - **07 Creative Work** for the prototype or testbed.

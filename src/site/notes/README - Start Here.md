@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/readme-start-here/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
+(note this homepage will be replaced eventually. This is information for Seth basically, because i know ill forget. Use the navigation at the top. Not everything is published yet, so if theres broken links, thats why. [Email me](mailto:seth.callaghan@gmail.com) - However, it may not exist yet)
 
 # Capstone Obsidian Vault
 

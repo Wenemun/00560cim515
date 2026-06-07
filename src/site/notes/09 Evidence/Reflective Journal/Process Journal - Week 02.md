@@ -20,7 +20,55 @@ I was trying to work out whether the project is the framework, the world, or the
 - *what is the research area (what are you trying to discover or explore?)* 
 - *what different ways can you think of to provide those insights, or to explore that question or theme?* 
 *Ensure that each version of your project can be completed by you alone (for this activity, assume you will have no collaborators or human participants).*
+## Version 1: Framework First
 
+This version focuses on creating a practical framework for worldtelling across multiple media forms.
+
+The research area is how a speculative world can be designed so people can experience it in different ways: watching, reading, exploring, choosing, or playing.
+
+The output would be a framework, manifesto, or design toolkit, supported by diagrams and examples from Immutable Aeon. The research insight would come from making the framework, testing it against my own world, and reflecting on what changes through the process.
+
+This is achievable alone because it does not need collaborators, testers, or human participants. The evidence would be process notes, diagrams, drafts, literature notes, and reflective analysis.
+
+The insight comes from designing the system and reflecting on what principles emerge.
+
+## Version 2: Prototype First
+
+This version focuses on making a small interactive prototype.
+
+The research area is how a speculative world can be experienced through an interactive system that blends story, choice, exploration, and media.
+
+The output could be a short visual novel, interactive website, Twine-style piece, or Unreal vertical slice. It would use one small part of Immutable Aeon rather than trying to build the whole world.
+
+This version is more creative and tangible, but also riskier because it could grow too large. To keep it achievable, I would limit it to one short experience with no external testers or participants. The evidence would be screenshots, builds, design notes, version history, and reflection.
+
+The insight comes from testing how the world feels when someone can move through it, choose, or interact.
+
+## Version 3: World Bible as Research Artefact
+
+This version focuses on Immutable Aeon as the main research artefact.
+
+The research area is how a speculative world can be structured to support multiple stories, platforms, player roles, and levels of agency.
+
+The output would be a world bible, but designed as an experience system, not just lore. It could include factions, timelines, locations, characters, terminology, media pathways, and examples of how one world element changes across different formats.
+
+This is achievable alone because it is based on writing, mapping, design, and reflection. The main risk is becoming too lore-heavy, so I would need to keep linking each decision back to multimodal experience design.
+
+These additional concepts could also be included in either of the above 3.
+
+#### **4. Make a media map**  
+Explore the question by mapping how one world element could appear across different forms: website, game, tabletop, video, fake archive, audio log, faction document, etc. The insight comes from seeing how the same world changes depending on the medium.
+
+#### **5. Create a narrative web**  
+Explore the question by designing a branching story structure with multiple paths and consequences. The insight comes from asking how much agency the audience needs before they stop just consuming the story and start inhabiting the world.
+
+### Insights:
+
+At the moment, Version 1 is the strongest academically, Version 2 is the strongest creatively, and Version 3 is the most familiar.
+
+The best final project would combine them, but with a clear hierarchy - this is what i haven't worked out yet.
+
+NOTE HOWEVER, these versions are less useful. Once of my focuses is in UX and human-centred design, so I need some form of participant feedback to know whether the experience actually works for people, otherwise I'm designing for me. A solo project can test my own thinking, but even a low-risk usability study, playtesting/screening, and short interviews would make the research more meaningful, once the artefact is ready to present.
 
 ## Practice
 *What did I make, write, test, read, revise, or decide?*
@@ -43,6 +91,8 @@ I will use this to answer the question/s that I've yet to actually clarify - but
 - Experience - How can different levels of audience agency shape the way players enter, explore, and understand the world?
 - Framework - What design principles emerge when worldtelling is used as the canvas for creating the experience?
 - Practice - How does my own creative practice change through making, reflecting, testing, and revising the work?
+
+Note: I had a lot more time this week than the last week.
 
 ## Why
 *Why did this matter to the capstone?*

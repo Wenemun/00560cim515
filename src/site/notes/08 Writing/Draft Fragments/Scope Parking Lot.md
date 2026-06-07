@@ -8,4 +8,6 @@ A place for good ideas that are not allowed to derail the Capstone right now.
 
 ## Parked ideas
 
+The actual game releases themselves - THIS IS JUST GOING TO BE A PROTOTYPE.
+
 -

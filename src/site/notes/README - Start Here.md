@@ -35,4 +35,25 @@ Use:
 4. Link concept notes to methods, framework notes, and writing drafts.
 5. Record major choices in [[09 Evidence/Decision Log/Design Decision Log\|Design Decision Log]].
 
+## Published garden setup
+
+This vault can be published using the **Digital Garden / Forestry** workflow.
+https://docs.forestry.md/getting-started/01-getting-started/
+
+This is published at https://00560cim515.vercel.app and will be integrated into www.sethcallaghan.com.au
+
+To publish a note, add this to the very top:
+
+```yaml
+---
+dg-publish: true
+dg-home: false
+---
+```
+
+The press ctrl-P and select Digital Garden: Publish all notes marked for publish.
+
+
+
+
 

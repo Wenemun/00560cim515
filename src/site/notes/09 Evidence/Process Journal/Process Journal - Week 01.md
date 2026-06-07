@@ -7,6 +7,7 @@
 ## What I worked on
 
 Set up the Capstone Obsidian vault and initial ontology.
+Worked out a Reference Matrix
 
 ## What changed
 

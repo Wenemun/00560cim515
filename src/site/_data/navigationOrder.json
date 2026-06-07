@@ -1,0 +1,86 @@
+{
+  "/": [
+    "01 Inbox Unsorted",
+    "02 Readings",
+    "06 Creative Practice",
+    "06 Framework",
+    "07 Creative Work",
+    "08 Writing",
+    "09 Evidence",
+    "Maps of Content",
+    "README - Start Here"
+  ],
+  "/01 Inbox Unsorted": [
+    "Feedback"
+  ],
+  "/01 Inbox Unsorted/Feedback": [
+    "Supervisor Feedback Log"
+  ],
+  "/02 Readings": [
+    "Notes",
+    "Google Docs Reference Matrix"
+  ],
+  "/02 Readings/Notes": [
+    "Class",
+    "Grad Seminar",
+    "Supervisor meetings"
+  ],
+  "/02 Readings/Notes/Class": [
+    "W1 Defining Research",
+    "W2 Iterative Cyclic Web ICW"
+  ],
+  "/02 Readings/Notes/Grad Seminar": [
+    "W1 Grad Seminar 4-6"
+  ],
+  "/02 Readings/Notes/Supervisor meetings": [
+    "W1 Robert",
+    "W2 Meeting with Robert 3-5"
+  ],
+  "/06 Creative Practice": [
+    "Placeholder"
+  ],
+  "/06 Framework": [
+    "Placeholder 1"
+  ],
+  "/07 Creative Work": [
+    "Placeholder 1 1"
+  ],
+  "/08 Writing": [
+    "Draft Fragments",
+    "Research Question",
+    "CIM515.1",
+    "CIM515.2",
+    "CIM515.3"
+  ],
+  "/08 Writing/Draft Fragments": [
+    "Scope Parking Lot"
+  ],
+  "/08 Writing/Research Question": [
+    "Research Question - Current"
+  ],
+  "/09 Evidence": [
+    "Decision Log",
+    "Iterations",
+    "Process Journal"
+  ],
+  "/09 Evidence/Decision Log": [
+    "Design Decision Log"
+  ],
+  "/09 Evidence/Iterations": [
+    "Iteration Log"
+  ],
+  "/09 Evidence/Process Journal": [
+    "Process Journal - Week 01",
+    "Process Journal - Week 02"
+  ],
+  "/Maps of Content": [
+    "MOC - Capstone",
+    "MOC - Creative Practice",
+    "MOC - Ethics",
+    "MOC - Exegesis",
+    "MOC - Framework",
+    "MOC - Immutable Aeon Testbed",
+    "MOC - Literature Review",
+    "MOC - Research Methods"
+  ]
+}

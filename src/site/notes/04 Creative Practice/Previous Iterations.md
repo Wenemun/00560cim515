@@ -4,29 +4,6 @@
 
 
 
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAF0390ASHU/BjgiqRou2a2T_zDqWAVZYQ/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF0390ASHU&#x2F;BjgiqRou2a2T_zDqWAVZYQ&#x2F;watch?utm_content=DAF0390ASHU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">SAE CIM400 Immutable Aeon</a> by Seth Callaghan
-
-This trailer is more about the world, to accompany a transmedia bible.
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGOKE1SZ1s/dkm7S_0w9QBHYvzdm3k8Vg/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOKE1SZ1s&#x2F;dkm7S_0w9QBHYvzdm3k8Vg&#x2F;watch?utm_content=DAGOKE1SZ1s&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">aeon tabula rasa</a> by Seth Callaghan
-
-This was done as a tabula rasa intro to the world
-
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -51,7 +28,33 @@ The whole thing is useful, but skip to 5:30 for the prototype itself - This was 
 However, this was story driven with a branching narrative.
 
 
-For DES420, I was tasked with making a creative asset using AI tools. I chose a previs of the game opener, iterating on what i had done before.
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAF0390ASHU/BjgiqRou2a2T_zDqWAVZYQ/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF0390ASHU&#x2F;BjgiqRou2a2T_zDqWAVZYQ&#x2F;watch?utm_content=DAF0390ASHU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">SAE CIM400 Immutable Aeon</a> by Seth Callaghan
+
+This trailer is more about the world, to accompany a transmedia bible in CIM401 
+
+These were both based on branching narrative, but the idea of designing for transmedia first was starting to coalesce.
+
+<iframe src="/img/user/V0.2%20Transmedia%20Game%20Design%20Bible%20-%20Immutable%20Aeon%20CIM401%20-%20Seth%20Callaghan.pdf" width="100%" height="900px" title="V0.2 Transmedia Game Design Bible - Immutable Aeon CIM401 - Seth Callaghan.pdf" style="border:1px solid #ccc;"></iframe>
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGOKE1SZ1s/dkm7S_0w9QBHYvzdm3k8Vg/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOKE1SZ1s&#x2F;dkm7S_0w9QBHYvzdm3k8Vg&#x2F;watch?utm_content=DAGOKE1SZ1s&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">aeon tabula rasa</a> by Seth Callaghan
+
+This was done as a tabula rasa intro to the world
+
+
 
 <div style="width:80%; aspect-ratio:16/9;">
   <iframe 
@@ -63,3 +66,17 @@ For DES420, I was tasked with making a creative asset using AI tools. I chose a 
     allowfullscreen>
   </iframe>
 </div>
+
+For DES420, I was tasked with making a creative asset using AI tools. I chose a previs of the game opener, iterating on what i had done before.
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAHG7JyK9dg/u-kuKzsg_kPNgsw714sxjg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHG7JyK9dg&#x2F;u-kuKzsg_kPNgsw714sxjg&#x2F;view?utm_content=DAHG7JyK9dg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">DES420 Viva</a> by Seth Callaghan
+In DES420 I also made some 3D assets (Slide 30-52) and used an agent to create an unreal level as an experiment (Slide 3-9 - video walkthrough on slide 7)
+
+

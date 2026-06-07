@@ -1,14 +1,26 @@
 {
   "/": [
+    "README - Start Here",
+    "Maps of Content",
     "01 Inbox Unsorted",
     "02 Readings",
-    "06 Creative Practice",
+    "03 Concepts",
+    "04 Creative Practice",
+    "05 Methods",
     "06 Framework",
     "07 Creative Work",
     "08 Writing",
-    "09 Evidence",
-    "Maps of Content",
-    "README - Start Here"
+    "09 Evidence"
+  ],
+  "/Maps of Content": [
+    "MOC - Capstone",
+    "MOC - Creative Practice",
+    "MOC - Ethics",
+    "MOC - Exegesis",
+    "MOC - Framework",
+    "MOC - Immutable Aeon Testbed",
+    "MOC - Literature Review",
+    "MOC - Research Methods"
   ],
   "/01 Inbox Unsorted": [
     "Feedback"
@@ -36,8 +48,24 @@
     "W1 Robert",
     "W2 Meeting with Robert 3-5"
   ],
-  "/06 Creative Practice": [
-    "Placeholder"
+  "/03 Concepts": [
+    "Experience Design",
+    "Worldbuilding - WorldTelling"
+  ],
+  "/03 Concepts/Experience Design": [
+    "Experience Design"
+  ],
+  "/03 Concepts/Worldbuilding - WorldTelling": [
+    "Worldbuilding - WorldTelling"
+  ],
+  "/04 Creative Practice": [
+    "Placeholder 1 1"
+  ],
+  "/05 Methods": [
+    "Creative Practice Research"
+  ],
+  "/05 Methods/Creative Practice Research": [
+    "Creative Practice Research"
   ],
   "/06 Framework": [
     "Placeholder 1"
@@ -72,15 +100,5 @@
   "/09 Evidence/Process Journal": [
     "Process Journal - Week 01",
     "Process Journal - Week 02"
-  ],
-  "/Maps of Content": [
-    "MOC - Capstone",
-    "MOC - Creative Practice",
-    "MOC - Ethics",
-    "MOC - Exegesis",
-    "MOC - Framework",
-    "MOC - Immutable Aeon Testbed",
-    "MOC - Literature Review",
-    "MOC - Research Methods"
   ]
 }

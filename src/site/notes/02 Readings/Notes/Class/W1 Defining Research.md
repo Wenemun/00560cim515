@@ -9,7 +9,7 @@
 
 Heres my Draft. I still keep flipflopping a bit over the framework vs the creative output. And i havent really worked out my research question/s  
   
-I intend to investigate how speculative worlds can be designed to be experienced across interconnected media forms, rather than told through a single linear story. Building on my work in digital production, UX, roleplaying, interactive design, creative technology, and game systems, I will develop a practical “worldtelling” (TBC) framework for players/users, authors and designers who want audiences to explore a world through different levels of transmedia participation.  
+I intend to investigate ==**how speculative worlds can be designed to be experienced across interconnected media forms, rather than told through a single linear story.**== Building on my work in digital production, UX, roleplaying, interactive design, creative technology, and game systems, I will develop a practical “worldtelling” (TBC) framework for players/users, authors and designers who want audiences to explore a world through different levels of transmedia participation.  
   
 The project will use Immutable Aeon, my own "post-cyberpunk" TTRPG setting, as both creative material and a test case. While the world itself will continue to develop through the project, the main object of study is the design system: how story, setting, interaction, platform, and player agency can work together to create meaning. The outcome will likely include a prototype or vertical slice, supported by an exegesis reflecting on the design process, relevant theory, and the framework’s usefulness for creative practice.  
 

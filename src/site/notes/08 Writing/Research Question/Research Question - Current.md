@@ -6,7 +6,7 @@
 
 ## Current Draft
 
-How can a speculative world be experienced across interconnected media forms with different levels of participation and agency?
+How can a speculative world be experienced across interconnected media forms with different levels of participation and agency, for social change?
 
 ## Alternative Drafts
 

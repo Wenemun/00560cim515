@@ -2,7 +2,16 @@
 {"dg-publish":true,"permalink":"/02 Readings/Google Docs Reference Matrix/","dg-note-properties":{}}
 ---
 
+To add [https://www.amazon.com.au/Roleplaying-Games-Digital-Age-Storytelling-ebook/dp/B08X2WMVVM](https://www.amazon.com.au/Roleplaying-Games-Digital-Age-Storytelling-ebook/dp/B08X2WMVVM)
+  [https://www.routledge.com/Role-Playing-Game-Studies-Transmedia-Foundations/Deterding-Zagal/p/book/9780815369202](https://www.routledge.com/Role-Playing-Game-Studies-Transmedia-Foundations/Deterding-Zagal/p/book/9780815369202) Ch22 in particular as well as 11 With a side of 17 and 20
+  
+https://researchers.mq.edu.au/en/persons/michael-hitchens/publications/
 
+Need to look for similar works and or justifying it as a unique contribution?
+Find some more on montage and liminality.
+
+![[Zotero Export for Seth without Files.rdf]]
+![Pasted image 20260623221740.png\|319](/img/user/Pasted%20image%2020260623221740.png)
 # Spreadsheet
 
 <iframe

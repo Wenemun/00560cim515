@@ -80,3 +80,5 @@ For DES420, I was tasked with making a creative asset using AI tools. I chose a 
 In DES420 I also made some 3D assets (Slide 30-52) and used an agent to create an unreal level as an experiment (Slide 3-9 - video walkthrough on slide 7)
 
 
+CIM515.2 Capstone Pitch
+![[Seth Callaghan 26T2 CIM515.2 Capstone Pitch.mp4]]

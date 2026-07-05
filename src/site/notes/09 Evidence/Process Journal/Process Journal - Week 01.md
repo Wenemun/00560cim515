@@ -4,7 +4,9 @@
 
 # Entry for 1/6/2026
 
+
 ## What I worked on
+
 
 #### Write a description of what you intend to do for your Capstone Project and bring it to class, Defining the object of study.
 
@@ -28,11 +30,13 @@ But as Leavy mentions Real-world problems rarely fit discreetly into disciplinar
 Leavy, P. (2020). _Method meets art : Arts-based research practice_. Guilford Publications.  
 
 
+
 ## Problems / tensions
 
 - Worldbuilding vs framework-building
 - Scope creep
 - How to keep the project practical for CIM515/CIM516
+
 
 ## Practice
 
@@ -40,16 +44,19 @@ Leavy, P. (2020). _Method meets art : Arts-based research practice_. Guilford P
 
 The project is being framed as framework-first, with the creative world acting as a testbed.
 I created a bunch of templates, and ontology for using obsidian for journaling which includes prompts (like the above) that can keep me more organised throughout the capstone. 
+
 ## Why
 
 *Why did this matter to the capstone?*
 
 Research is central to the capstone, and setting up the building blocks now is the only way im going to be able to do it.
+
 ## Self
 
 *What did this reveal about my habits, assumptions, taste, background, scope creep, or way of working?*
 
 While I crave structure, i don't work well within it - i need to spread my thoughts and ideas out so i can see the big picture. Doing this creates mess, and i know that in 6 months time when it comes to write the exegesis, and consolidate all my findings I will not have the time to organise it, so sticking with this structure might not make the most creative work, but is crucial for writing about it. 
+
 ## Theory
 
 *What readings or concepts does this connect to?*
@@ -58,13 +65,16 @@ This can draw on transmedia storytelling and storyworld/worldbuilding theory, pa
 
 Colins and Leavy for creative practice.
 
+
 ## Shift
 
 *What changed in my thinking or project direction?*
 Throughout the postgrad course, I have been thinking about making this game - now I'm thinking about just making a framework or principles about it. This is a massive shift, and not something I necessarily want to do.
+
 ## Evidence
 *What can I point to that shows this thinking came from actual making, reading, feedback, or iteration?*
 This is included above
+
 ## Next steps
 
 - Add PDFs and work out what readings will contribute most.

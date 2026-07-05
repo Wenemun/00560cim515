@@ -14,6 +14,7 @@
 Clarifying what the capstone actually is.
 
 I was trying to work out whether the project is the framework, the world, or the game. I think I was mixing them together too much, and overcomplicating things.
+
 ### Assessment work
 *In your Reflective Journal, develop three (3) different versions of your research project. Consider:* 
 - *what is the research area (what are you trying to discover or explore?)* 
@@ -174,7 +175,6 @@ It is not just a framework, It is a speculative interactive experience, supporte
 
 ## Evidence
 *What can I point to that shows this thinking came from actual making, reading, feedback, or iteration?*
-
 
 
 ## Next

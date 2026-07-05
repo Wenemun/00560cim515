@@ -27,7 +27,7 @@
 ## Method Evidence
 
 - [[09 Evidence/Decision Log/Design Decision Log\|Design Decision Log]]
-- [[09 Evidence/Reflective Journal/Reflective Journal\|Reflective Journal]]
+- [[09 Evidence/Process Journal/Process Journal\|Process Journal]]
 - [[09 Evidence/Iterations/Iteration Log\|Iteration Log]]
 - [[Prototype Evidence\|Prototype Evidence]]
 - [[Research Data Management Plan\|Research Data Management Plan]]

@@ -46,6 +46,6 @@ The project is framework-first, with the creative world or prototype acting as a
 ## Key Logs
 
 - [[09 Evidence/Decision Log/Design Decision Log\|Design Decision Log]]
-- [[09 Evidence/Reflective Journal/Reflective Journal\|Reflective Journal]]
+- [[09 Evidence/Process Journal/Process Journal\|Process Journal]]
 - [[01 Inbox Unsorted/Feedback/Supervisor Feedback Log\|Supervisor Feedback Log]]
 - [[08 Writing/Draft Fragments/Scope Parking Lot\|Scope Parking Lot]]

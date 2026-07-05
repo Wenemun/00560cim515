@@ -76,22 +76,28 @@ Giving money is messier. Through a charity, I HAVE to trust the system. Directly
 
 *Why did this matter to the capstone?*
 
+Ethics matter, but this training module felt completely disjointed from what's actually important to ethics and risk within the capstone. 
+
 ## Self
 
 *What did this reveal about my habits, assumptions, taste, background, scope creep, or way of working?*
 
+Taking ethics into account, and especially the risks is important to the project, but could also be incredibly limiting if external participants are involved. At this point, i feel that extra effort is worth it because real human feedback is invaluable - otherwise I'm creating in a void or just creating a project for myself. 
+
+(update 4/7 - I have reviewed this opinion from feedback - excluding participants is safer, and using personas provides similar inputs. )
+
 ## Practice
 
 *What changed in the framework, prototype, artefact, world, writing, or design process?*
-
+n/a
 ## Theory
 
 *What readings or concepts does this connect to?*
-
+n/a
 ## Shift
 
 *What changed in my thinking or project direction?*
-
+n/a
 ## Evidence
 *What can I point to that shows this thinking came from actual making, reading, feedback, or iteration?*
 

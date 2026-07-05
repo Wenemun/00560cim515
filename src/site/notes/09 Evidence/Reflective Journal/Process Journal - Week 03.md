@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/09 Evidence/Reflective Journal/Process Journal - Week 03/","dg-note-properties":{}}
 ---
 
-# # Entry for - {{date}}
+# # Entry for - 14/6/2026
 
 ## Focus
 
@@ -10,6 +10,9 @@
 * *Problems*
 * *Tension*
 * *Questions*
+
+No reflections this week, lots of reading. Created AB's instead.
+Feedback is these need to be more critical to my work - this is hard to do at this stage, when I haven't worked out what the exact focus of my work is - but these will be rewritten for the confirmation document once I have that focus.
 #### Assessment work
 *In your Reflective Journal this week, write an annotated bibliography of at least 6 sources.* 
 *How to: [https://www.scribbr.com/citing-sources/annotated-bibliography/](https://www.scribbr.com/citing-sources/annotated-bibliography/)*

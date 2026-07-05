@@ -7,7 +7,7 @@
 
 ## What I worked on
 
-
+[[09 Evidence/Process Journal/Process Journal\|Process Journal]]
 #### Write a description of what you intend to do for your Capstone Project and bring it to class, Defining the object of study.
 
 Heres my Draft. I still keep flipflopping a bit over the framework vs the creative output. And i haven't really worked out my research question/s  

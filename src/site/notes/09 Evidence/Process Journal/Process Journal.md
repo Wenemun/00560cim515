@@ -4,7 +4,8 @@
 
 # Process Journal
 
-Use this as the index for weekly or daily process notes.
+About:
+
 
 ## Entries
 

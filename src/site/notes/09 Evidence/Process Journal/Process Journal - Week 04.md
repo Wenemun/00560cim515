@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/09 Evidence/Process Journal/Process Journal - Week 04/","dg-note-properties":{}}
 ---
 
-# # Entry for - 21/06/2026
+# # Entry for - 21/06/2026 - 
 
 
 ## Focus

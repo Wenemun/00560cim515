@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/09 Evidence/Process Journal/Process Journal - Week 01/","dg-note-properties":{}}
 ---
 
-# Entry for 1/6/2026
+# Entry for 1/6/2026 - 
 
 
 ## What I worked on
